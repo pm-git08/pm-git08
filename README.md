@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prajjwal Moudgill</h1>
-<h3 align="center">I'm a Bachelor’s student at Guru Gobind Singh Indraprastha University (GGSIPU), passionate about diving deep into the tech world. I'm exploring everything from AI, machine learning, and cybersecurity to backend web development, cloud computing, and data science. My goal is to build a well-rounded skillset and stay on top of the latest trends in technology. It’s an exciting journey, and I’m looking forward to growing my expertise and seeing where it takes me!
+<h3 align="center">I'm a Undergrad student at GGSIPU, passionate about diving deep into the tech world. I'm exploring everything from AI, machine learning, and cybersecurity to backend web development, cloud computing, and data science. My goal is to build a well-rounded skillset and stay on top of the latest trends in technology. It’s an exciting journey, and I’m looking forward to growing my expertise and seeing where it takes me!
 I am also community-minded. Me and my friend established a platform based community for college students and working professionals, making it easier to find and participate in events a helpful resource for networking and learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pm-git08&label=Profile%20views&color=0e75b6&style=flat" alt="pm-git08" /> </p>
